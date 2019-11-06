@@ -1,0 +1,10 @@
+Number of animals:   27
+Number correct:       21
+Repetitions:          6
+Unknown Animals:      0
+
+Sequence Mean ESA:      0.0064
+Total Mean ESA:         0.0196
+Sem Org Index (SOI):    0.3269
+
+ESA switches:         21  ( 1.00 words/switch)  ( 2.00 words/cluster)
